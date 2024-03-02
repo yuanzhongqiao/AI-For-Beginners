@@ -12,7 +12,7 @@
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/microsoft/AI-For-Beginners/blob/main/lessons/sketchnotes/ai-overview.png"><img src="/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png" alt="素描笔记 (@girlie_mac)" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://GitHub.com/microsoft/AI-For-Beginners/blob/main/lessons/sketchnotes/ai-overview.png"><img src="https://GitHub.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png" alt="素描笔记 (@girlie_mac)" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 <tbody>
